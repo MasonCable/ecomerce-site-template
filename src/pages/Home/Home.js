@@ -1,6 +1,6 @@
-import React from 'react';
-import FilterBar from "../../containers/FilterBar/FilterBar";
-import ProductList from "../../containers/ProductList/ProductList";
+import React from 'react'
+import FilterBar from "../../containers/FilterBar/FilterBar"
+import ProductList from "../../containers/ProductList/ProductList"
 
 
 const Home = () => {
@@ -13,8 +13,8 @@ const Home = () => {
                 </div>
             </div>
         </React.Fragment>
-    );
-};
+    )
+}
 
 
-export default Home;
+export default Home
